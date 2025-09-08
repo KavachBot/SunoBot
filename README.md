@@ -1,5 +1,7 @@
 #  Suno – Discord Music Bot
 
+  ![Suno Logo](https://media.discordapp.net/attachments/1414458803688181760/1414458903889973258/1png.png?ex=68bfa502&is=68be5382&hm=5e38c70d3d063fc6cc641164435a5f7f93cd71cbb64b19c1d744b526ccf7738f&=&format=webp&quality=lossless)
+
 Suno is the **official music bot** by the [Kavach Team](https://kavachbot.com).
 It brings **high-quality music streaming** to your Discord server with simple commands, advanced filters, and premium features.
 
@@ -71,6 +73,7 @@ Suno follows Discord ToS and does not log or store unnecessary personal data.
 
 ---
 
+  ![Suno Banner](https://media.discordapp.net/attachments/1414458803688181760/1414458930595102750/Untitled_680_x_240_px.png?ex=68bfa508&is=68be5388&hm=a52b5b125722f5bde69d4888ccad98c23fe3877816ab1c244debbc1f4ff20449&=&format=webp&quality=lossless)
 ## ⚠️ Fake Bot Warning
 
 The only official bots by Kavach are:
