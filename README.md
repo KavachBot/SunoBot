@@ -73,7 +73,7 @@ Suno follows Discord ToS and does not log or store unnecessary personal data.
 
 ---
 
-  ![Suno Banner](https://media.discordapp.net/attachments/1414458803688181760/1414458930595102750/Untitled_680_x_240_px.png?ex=68bfa508&is=68be5388&hm=a52b5b125722f5bde69d4888ccad98c23fe3877816ab1c244debbc1f4ff20449&=&format=webp&quality=lossless)
+  ![Suno Banner](https://media.discordapp.net/attachments/1414458803688181760/1414460565434404894/1gif.gif?ex=68bfa68e&is=68be550e&hm=3ad818337e3841347ee088cc7d2072f5f92837674eed104cefe78ed454ae2c4a&=&width=550&height=194)
 ## ⚠️ Fake Bot Warning
 
 The only official bots by Kavach are:
