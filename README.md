@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KavachBot/SunoBot/main/assets/logo.gif" width="110px" />
+<img src="https://raw.githubusercontent.com/KavachBot/SunoBot/main/assets/logo.gif" width="110" height="110" />
 
 <br/>
 <br/>
