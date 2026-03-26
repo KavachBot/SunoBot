@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KavachBot/SunoBot/main/assets/logo.png" width="110" height="110" />
+<img src="https://raw.githubusercontent.com/KavachBot/SunoBot/main/assets/logo.png" width="110px" />
 
 <br/>
 <br/>
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/Top.gg-Vote%20for%20Suno-FF3366?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://kavachbot.com">
-  <img src="https://img.shields.io/badge/Website-kavachbot.com-FF6B35?style=for-the-badge&labelColor=0d1117" />
+<a href="https://suno.kavachbot.com">
+  <img src="https://img.shields.io/badge/Website-suno.kavachbot.com-FF6B35?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/>
@@ -40,7 +40,7 @@
 
 ## Overview
 
-**Suno** is the official music bot by the [Kavach Team](https://kavachbot.com), crafted to deliver the perfect soundtrack for every mood and moment. Turn your Discord server into a high-quality music space — built for servers that want stable playback, multiple music sources, intelligent autoplay, and full DJ-level control without compromise.
+**Suno** is the official music bot by the [Kavach Team](https://suno.kavachbot.com), crafted to deliver the perfect soundtrack for every mood and moment. Turn your Discord server into a high-quality music space — built for servers that want stable playback, multiple music sources, intelligent autoplay, and full DJ-level control without compromise.
 
 ---
 
